@@ -1,0 +1,8 @@
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\Masowe wysylanie maili\Masowe wysylanie maili\bin\Debug\Masowe wysylanie maili.exe
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\Masowe wysylanie maili\Masowe wysylanie maili\bin\Debug\Masowe wysylanie maili.pdb
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\Masowe wysylanie maili\Masowe wysylanie maili\obj\x86\Debug\Masowe_wysylanie_maili.Form1.resources
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\Masowe wysylanie maili\Masowe wysylanie maili\obj\x86\Debug\Masowe_wysylanie_maili.Properties.Resources.resources
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\Masowe wysylanie maili\Masowe wysylanie maili\obj\x86\Debug\Masowe wysylanie maili.csproj.GenerateResource.Cache
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\Masowe wysylanie maili\Masowe wysylanie maili\obj\x86\Debug\Masowe wysylanie maili.exe
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\Masowe wysylanie maili\Masowe wysylanie maili\obj\x86\Debug\Masowe wysylanie maili.pdb
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\Masowe wysylanie maili\Masowe wysylanie maili\obj\x86\Debug\Masowe wysylanie maili.csprojResolveAssemblyReference.cache
